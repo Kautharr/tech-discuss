@@ -1,5 +1,5 @@
 # tech-discuss
-Demo repo for sharing ideas around communication
+(Coursera - Cloud Computing) Demo repo for sharing ideas around communication
 
 
 ## second heading
