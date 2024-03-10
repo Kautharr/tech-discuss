@@ -2,7 +2,7 @@
 Demo repo for sharing ideas around communication
 
 
-## second headinf
+## second heading
 
 * one
 * two
