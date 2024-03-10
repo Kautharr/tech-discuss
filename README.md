@@ -16,4 +16,4 @@ Here's a [mult function](https://github.com/Kautharr/tech-discuss/blob/main/test
 
 ### Image
 
-
+![https://github.com/Kautharr/tech-discuss/issues/1#issue-2177836205]
